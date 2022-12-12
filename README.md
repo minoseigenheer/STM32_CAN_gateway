@@ -1,12 +1,15 @@
-# STM32_NMEA2000_CAN_gateway
-STM32F105 based dual CAN bus gateway with isolated NMEA2000 CAN
+# STM32 CAN gateway
 
+STM32F105 based dual CAN bus gateway / isolator.
+Designed as EMUS BMS to NMEA2000 converter.
+Hardware can be used for many CAN gateway applications.
 
 ### Specs
 ```
-- STM32F105RBT6 MCU with 2 internal CAN controllers
+- STM32F105RBT6 72MHz MCU with 2 internal CAN controllers
 - CAN1 BMS (micro-fit 6-pin connector)
 - CAN2 NMEA2000 isolated (M12 5-pin connector)
+  or second micro-fit 6-pin connector
 - 4-32V supply voltage
 - RGB status LED
 - USB-C for firmware updates
