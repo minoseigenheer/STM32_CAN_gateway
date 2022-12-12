@@ -19,8 +19,8 @@ STM32F105 based dual CAN bus gateway with isolated NMEA2000 CAN
 <img src="images/STM32 NMEA2000 CAN gateway render front.png" width="600"/>
 <img src="images/STM32 NMEA2000 CAN gateway render back.png" width="600"/>
 
+### EMUS BMS micro-fit 6p connector pinout
+<img src="images/EMUS BMS micro-fit 6p connector.png" width="250"/>
+
 ### NMEA2000 M12 connector pinout
 <img src="images/NMEA2000 M12 connector.png" width="600"/>
-
-### EMUS BMS micro-fit 6p connector pinout
-<img src="images/EMUS BMS micro-fit 6p connector.png" width="600"/>
