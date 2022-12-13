@@ -1,8 +1,8 @@
 # STM32 CAN gateway
 
 STM32F105 based dual CAN bus gateway / isolator.
-Designed as EMUS BMS to NMEA2000 converter.
-Hardware can be used for many CAN gateway applications.
+Designed for a EMUS BMS CAN to NMEA2000 converter.
+But hardware can be used for many CAN gateway or CAN isolation applications.
 
 ### Specs
 ```
@@ -22,8 +22,6 @@ Hardware can be used for many CAN gateway applications.
 <img src="images/STM32 NMEA2000 CAN gateway render front.png" width="600"/>
 <img src="images/STM32 NMEA2000 CAN gateway render back.png" width="600"/>
 
-### EMUS BMS micro-fit 6p connector pinout
-<img src="images/EMUS BMS micro-fit 6p connector.png" width="250"/>
+## pinout
+<img src="images/STM32_CAN_gateway_pinout.png" width="250" alt="EMUS BMS micro-fit 6p connector | NMEA2000 M12 connector"/>
 
-### NMEA2000 M12 connector pinout
-<img src="images/NMEA2000 M12 connector.png" width="600"/>
