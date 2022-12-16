@@ -1,0 +1,6 @@
+[submodule "STM32CubeIDE NMEA2000 battery example/NMEA2000"]
+	path = STM32CubeIDE NMEA2000 battery example/NMEA2000
+	url = https://github.com/ttlappalainen/NMEA2000
+[submodule "STM32CubeIDE NMEA2000 battery example/NMEA2000_STM32"]
+	path = STM32CubeIDE NMEA2000 battery example/NMEA2000_STM32
+	url = https://github.com/BitterAndReal/NMEA2000_STM32
