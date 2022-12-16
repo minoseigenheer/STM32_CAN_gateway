@@ -1,51 +1,16 @@
 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.macos64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7-m/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kMsg.h:49:13:bool N2kIsNA(double)	24	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kTimer.h:104:3:tN2kSyncScheduler::tN2kSyncScheduler(bool, uint32_t, uint32_t)	24	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kTimer.h:113:15:void tN2kSyncScheduler::Disable()	16	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kTimer.h:117:15:bool tN2kSyncScheduler::IsTime()	16	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kTimer.h:132:8:void tN2kSyncScheduler::UpdateNextTime()	144	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kMessages.h:46:15:double CToKelvin(double)	16	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kMessages.h:56:15:double hToSeconds(double)	16	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kMessages.h:812:13:void SetN2kDCStatus(tN2kMsg&, unsigned char, unsigned char, tN2kDCType, unsigned char, unsigned char, double, double, double)	56	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kMessages.h:840:13:void SetN2kChargerStatus(tN2kMsg&, unsigned char, unsigned char, tN2kChargeState, tN2kChargerMode, tN2kOnOff, tN2kOnOff, double)	48	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kMessages.h:866:13:void SetN2kDCBatStatus(tN2kMsg&, unsigned char, double, double, double, unsigned char)	48	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kMessages.h:898:13:void SetN2kBatConf(tN2kMsg&, unsigned char, tN2kBatType, tN2kBatEqSupport, tN2kBatNomVolt, tN2kBatChem, double, int8_t, double, int8_t)	64	static
-../Core/Src/project.cpp:217:10:uint32_t Overall_Parameters()	4	static
-../Core/Src/project.cpp:218:10:uint32_t Diagnostic_Codes()	4	static
-../Core/Src/project.cpp:219:10:uint32_t Battery_Voltage_Parameters()	4	static
-../Core/Src/project.cpp:220:10:uint32_t Cell_Module_Temperature_Parameters()	4	static
-../Core/Src/project.cpp:221:10:uint32_t State_Of_Charge_Parameters()	4	static
-../Core/Src/project.cpp:222:10:uint32_t Energy_Parameters()	4	static
-../Core/Src/project.cpp:457:6:void setSoftPWM(uint16_t, uint32_t, uint32_t*)	32	static
-../Core/Src/project.cpp:470:6:void zeroSoftPWM(uint32_t*)	24	static
-../Core/Src/project.cpp:479:9:uint8_t getFirstHighBitPos(uint32_t)	24	static
-../Core/Src/project.cpp:489:6:void UpdatePower()	8	static
-../Core/Src/project.cpp:501:8:double PowerAvg()	8	static
-../Core/Src/project.cpp:506:8:double SecondsRemaining()	24	static
-../Core/Src/project.cpp:516:17:tN2kChargeState N2kChargeState()	4	static
-../Core/Src/project.cpp:538:11:tN2kOnOff N2kChargerEnable()	4	static
-../Core/Src/project.cpp:546:6:void sendEmusRequest()	40	static
-../Core/Src/project.cpp:576:6:void resetEmusParameters()	4	static
-../Core/Src/project.cpp:606:6:void ParseEMUSmessages()	40	static
-../Core/Src/project.cpp:699:6:void ChargingStageProcessing()	8	static
-../Core/Src/project.cpp:753:13:std::string GetChargingStageString()	16	static
-../Core/Src/project.cpp:757:5:int GetChargingDuration()	8	static
-../Core/Src/project.cpp:761:8:double GetChargedEnergy()	16	static
-../Core/Src/project.cpp:771:6:void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef*)	16	static
-../Core/Src/project.cpp:781:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
-../Core/Src/project.cpp:789:9:double GetTemp(uint16_t)	24	static
-../Core/Src/project.cpp:828:8:double GetInternalTemp(uint16_t)	24	static
-../Core/Src/project.cpp:836:8:double GetVoltage(uint16_t)	16	static
-../Core/Src/project.cpp:840:9:uint8_t GetByteFromBools(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	32	static
-../Core/Src/project.cpp:852:6:void CANSendSoftwareVersion()	8	static
-../Core/Src/project.cpp:883:6:void NextFadeVal()	4	static
-../Core/Src/project.cpp:912:9:uint8_t GammaCorrection(uint8_t)	24	static
-../Core/Src/project.cpp:928:6:void breathingLED()	24	static
-../Core/Src/project.cpp:968:6:void SendN2kBatteryMessages()	336	static
-../Core/Src/project.cpp:1023:6:void OnN2kOpen()	8	static
-../Core/Src/project.cpp:1037:6:void myCppProcessInit()	24	static
-../Core/Src/project.cpp:1158:6:void myCppProcess()	8	static
-../Core/Src/project.cpp:440:3:T AvgArr(T*, uint32_t) [with T = double]	40	static
-../Core/Src/project.cpp:1196:1:void __static_initialization_and_destruction_0(int, int)	96	static
-../Core/Src/project.cpp:1196:1:cpp)	8	static
-../Core/Src/project.cpp:1196:1:cpp)	8	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kMsg.h:49:13:bool N2kIsNA(double)	24	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kTimer.h:104:3:tN2kSyncScheduler::tN2kSyncScheduler(bool, uint32_t, uint32_t)	24	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kTimer.h:113:15:void tN2kSyncScheduler::Disable()	16	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kTimer.h:117:15:bool tN2kSyncScheduler::IsTime()	16	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kTimer.h:132:8:void tN2kSyncScheduler::UpdateNextTime()	144	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kMessages.h:46:15:double CToKelvin(double)	16	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kMessages.h:812:13:void SetN2kDCStatus(tN2kMsg&, unsigned char, unsigned char, tN2kDCType, unsigned char, unsigned char, double, double, double)	56	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kMessages.h:866:13:void SetN2kDCBatStatus(tN2kMsg&, unsigned char, double, double, double, unsigned char)	48	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/Libs/NMEA2000/src/N2kMessages.h:898:13:void SetN2kBatConf(tN2kMsg&, unsigned char, tN2kBatType, tN2kBatEqSupport, tN2kBatNomVolt, tN2kBatChem, double, int8_t, double, int8_t)	64	static
+../Core/Src/project.cpp:120:6:void SendN2kBatteryMessages()	336	static
+../Core/Src/project.cpp:160:6:void OnN2kOpen()	8	static
+../Core/Src/project.cpp:173:6:void myCppProcessInit()	24	static
+../Core/Src/project.cpp:212:6:void myCppProcess()	8	static
+../Core/Src/project.cpp:225:1:void __static_initialization_and_destruction_0(int, int)	24	static
+../Core/Src/project.cpp:225:1:cpp)	8	static

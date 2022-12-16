@@ -50,18 +50,8 @@
 // PRIVAT VARIABLES
 ////////////////////////////////
 
-extern ADC_HandleTypeDef hadc1;
-extern DMA_HandleTypeDef hdma_adc1;
-
 extern CAN_HandleTypeDef hcan1;
 extern CAN_HandleTypeDef hcan2;
-
-extern TIM_HandleTypeDef htim2;
-extern TIM_HandleTypeDef htim5;
-extern DMA_HandleTypeDef hdma_tim5_ch1;
-
-
-const char SoftwareVersion[8] = "V0.1";
 
 
 // fake battery variables

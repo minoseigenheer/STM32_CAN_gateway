@@ -29,19 +29,19 @@ Core/Src/cpp_link.o: ../Core/Src/cpp_link.cpp ../Core/Inc/cpp_link.hpp \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h \
- ../Core/Inc/eeprom.h ../Core/Inc/project.hpp \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/NMEA2000.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/NMEA2000_CompilerDefns.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kStream.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kDef.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kMsg.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kCANMsg.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kMsg.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kTimer.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kGroupFunction.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kMessages.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kTypes.h \
- /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/NMEA2000StdTypes.h
+ ../Core/Inc/project.hpp \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/NMEA2000.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/NMEA2000_CompilerDefns.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kStream.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kDef.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kMsg.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kCANMsg.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kMsg.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kTimer.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kGroupFunction.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kMessages.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kTypes.h \
+ /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/NMEA2000StdTypes.h
 ../Core/Inc/cpp_link.hpp:
 ../Core/Inc/main.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:
@@ -74,17 +74,16 @@ Core/Src/cpp_link.o: ../Core/Src/cpp_link.cpp ../Core/Inc/cpp_link.hpp \
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h:
-../Core/Inc/eeprom.h:
 ../Core/Inc/project.hpp:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/NMEA2000.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/NMEA2000_CompilerDefns.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kStream.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kDef.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kMsg.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kCANMsg.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kMsg.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kTimer.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kGroupFunction.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kMessages.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/N2kTypes.h:
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/NMEA2000/NMEA2000/src/NMEA2000StdTypes.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/NMEA2000.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/NMEA2000_CompilerDefns.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kStream.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kDef.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kMsg.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kCANMsg.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kMsg.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kTimer.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kGroupFunction.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kMessages.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/N2kTypes.h:
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/Libs/NMEA2000/src/NMEA2000StdTypes.h:
