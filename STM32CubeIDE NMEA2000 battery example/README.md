@@ -21,7 +21,7 @@
   - STM32 HAL for your MCU
 
 > Use the following command to update the submodules
-> git submodule update --init --recursive
+> git submodule foreach git pull
 
 ---
 ### STM23CubeIDE settings 
