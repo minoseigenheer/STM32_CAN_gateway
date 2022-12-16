@@ -1,0 +1,6 @@
+../Core/Src/eeprom.c:324:10:EE_VerifyPageFullyErased	0	static
+../Core/Src/eeprom.c:568:17:EE_VerifyPageFullWriteVariable	16	static
+../Core/Src/eeprom.c:445:26:EE_Format	32	static
+../Core/Src/eeprom.c:362:10:EE_ReadVariable	8	static
+../Core/Src/eeprom.c:71:10:EE_Init	48	static
+../Core/Src/eeprom.c:421:10:EE_WriteVariable	56	static

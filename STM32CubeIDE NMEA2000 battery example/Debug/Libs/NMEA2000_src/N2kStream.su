@@ -1,0 +1,4 @@
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kStream.cpp:32:8:size_t N2kStream::print(const char*)	24	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kStream.cpp:55:8:size_t N2kStream::print(int, uint8_t)	64	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kStream.cpp:75:8:size_t N2kStream::println(const char*)	24	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/N2kStream.cpp:79:8:size_t N2kStream::println(int, uint8_t)	32	static

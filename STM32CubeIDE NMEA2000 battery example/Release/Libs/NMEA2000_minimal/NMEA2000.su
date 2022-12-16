@@ -1,0 +1,140 @@
+../Libs/NMEA2000_minimal/NMEA2000.hpp:522:18:virtual void tNMEA2000::SetN2kCANSendFrameBufSize(uint16_t)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.hpp:526:18:virtual void tNMEA2000::SetN2kCANReceiveFrameBufSize(uint16_t)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:902:6:virtual void tNMEA2000::InitCANFrameBuffers()	8	static
+../Libs/NMEA2000_minimal/NMEA2000.hpp:477:10:bool tNMEA2000::IsReadyToSend() const	0	static
+../Libs/NMEA2000_minimal/N2kTimer.hpp:134:8:void tN2kSyncScheduler::UpdateNextTime()	24	static
+../Libs/NMEA2000_minimal/N2kTimer.hpp:178:8:bool tN2kScheduler::IsTime() const	8	static
+../Libs/NMEA2000_minimal/N2kTimer.hpp:185:8:void tN2kScheduler::FromNow(uint32_t)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.hpp:327:10:void tNMEA2000::tInternalDevice::UpdateAddressClaimEndSource()	0	static
+../Libs/NMEA2000_minimal/NMEA2000.hpp:331:10:void tNMEA2000::tInternalDevice::UpdateHasPendingInformation()	0	static
+../Libs/NMEA2000_minimal/NMEA2000.hpp:476:10:bool tNMEA2000::IsValidDevice(int) const	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:158:6:bool IsSingleFrameSystemMessage(long unsigned int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:170:6:bool IsFastPacketSystemMessage(long unsigned int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:179:6:bool IsDefaultSingleFrameMessage(long unsigned int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:210:6:bool IsMandatoryFastPacketMessage(long unsigned int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:220:6:bool IsDefaultFastPacketMessage(long unsigned int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:317:6:bool IsProprietaryFastPacketMessage(long unsigned int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:321:6:static bool tNMEA2000::IsProprietaryMessage(long unsigned int)	8	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:341:6:void tNMEA2000::tProductInformation::Clear()	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:346:6:bool tNMEA2000::tProductInformation::IsSame(const tNMEA2000::tProductInformation&)	8	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:351:6:static void tNMEA2000::ClearCharBuf(size_t, char*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:358:6:static void tNMEA2000::SetCharBuf(const char*, size_t, char*)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:368:6:static void tNMEA2000::ClearSetCharBuf(const char*, size_t, char*)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:374:1:tNMEA2000::tNMEA2000()	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:418:6:void tNMEA2000::SetDeviceCount(uint8_t)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:478:6:void tNMEA2000::SetConfigurationInformation(const char*, const char*, const char*)	32	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:516:6:void tNMEA2000::SetProgmemConfigurationInformation(const char*, const char*, const char*)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:578:6:void CopyProgmemString(const char*, size_t, char*)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:589:6:bool tNMEA2000::IsTxPGN(long unsigned int, int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:605:40:const tNMEA2000::tProductInformation* tNMEA2000::GetProductInformation(int, bool&) const	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:616:16:short unsigned int tNMEA2000::GetN2kVersion(int) const	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:630:16:short unsigned int tNMEA2000::GetProductCode(int) const	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:644:6:void tNMEA2000::GetModelID(char*, size_t, int) const	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:660:6:void tNMEA2000::GetSwCode(char*, size_t, int) const	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:676:6:void tNMEA2000::GetModelVersion(char*, size_t, int) const	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:692:6:void tNMEA2000::GetModelSerialCode(char*, size_t, int) const	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:708:15:unsigned char tNMEA2000::GetCertificationLevel(int) const	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:722:15:unsigned char tNMEA2000::GetLoadEquivalency(int) const	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:761:6:void tNMEA2000::SetInstallationDescription2(const char*)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:736:6:void tNMEA2000::CopyProgmemConfigurationInformationToLocal()	96	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:751:6:void tNMEA2000::SetInstallationDescription1(const char*)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:770:6:void tNMEA2000::GetInstallationDescription1(char*, size_t)	4	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:779:6:void tNMEA2000::GetInstallationDescription2(char*, size_t)	4	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:788:6:void tNMEA2000::GetManufacturerInformation(char*, size_t)	4	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:797:6:bool tNMEA2000::ReadResetInstallationDescriptionChanged()	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:807:6:void tNMEA2000::SetDeviceInformation(long unsigned int, unsigned char, unsigned char, uint16_t, unsigned char, int)	32	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:424:6:void tNMEA2000::InitDevices()	48	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:450:6:void tNMEA2000::SetProductInformation(const tNMEA2000::tProductInformation*, int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:459:6:void tNMEA2000::SetProductInformation(const char*, short unsigned int, const char*, const char*, const char*, unsigned char, short unsigned int, unsigned char, int)	48	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:857:6:void tNMEA2000::SetSingleFrameMessages(const long unsigned int*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:862:6:void tNMEA2000::SetFastPacketMessages(const long unsigned int*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:867:6:void tNMEA2000::ExtendSingleFrameMessages(const long unsigned int*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:872:6:void tNMEA2000::ExtendFastPacketMessages(const long unsigned int*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:877:6:void tNMEA2000::ExtendTransmitMessages(const long unsigned int*, int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:884:6:void tNMEA2000::ExtendReceiveMessages(const long unsigned int*, int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:891:6:void tNMEA2000::SetMode(tNMEA2000::tN2kMode, uint8_t)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:980:6:void CanIdToN2k(long unsigned int, unsigned char&, long unsigned int&, unsigned char&, unsigned char&)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1000:15:long unsigned int N2ktoCanID(unsigned char, long unsigned int, long unsigned int, unsigned char)	8	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1012:6:bool tNMEA2000::SendFrames()	32	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1050:6:void tNMEA2000::SetHeartbeatIntervalAndOffset(uint32_t, uint32_t, int)	40	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1077:6:void tNMEA2000::SetHeartbeatInterval(long unsigned int, bool, int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1111:27:tNMEA2000::tCANSendFrame* tNMEA2000::GetNextFreeCANSendFrame()	8	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1029:6:bool tNMEA2000::SendFrame(long unsigned int, unsigned char, const unsigned char*, bool)	40	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1241:6:void tNMEA2000::SetDebugMode(tNMEA2000::tDebugMode)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1246:6:bool tNMEA2000::IsFastPacketPGN(long unsigned int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:527:8:size_t tNMEA2000::GetFastPacketTxPGNCount(int)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:545:5:int tNMEA2000::GetSequenceCounter(long unsigned int, int)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1266:6:bool tNMEA2000::IsFastPacket(const tN2kMsg&)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1273:6:bool tNMEA2000::CheckKnownMessage(long unsigned int, bool&, bool&)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1313:6:void CopyBufToCANMsg(tN2kCANMsg&, unsigned char, unsigned char, unsigned char*)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1391:15:unsigned char TPCtsPackets(unsigned char)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1468:6:bool tNMEA2000::HasAllTPDTSent(int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1749:6:int tNMEA2000::FindSourceDeviceIndex(unsigned char)	12	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1760:6:bool tNMEA2000::IsMySource(unsigned char)	8	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1765:6:void tNMEA2000::ForwardMessage(const tN2kMsg&)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1779:6:void tNMEA2000::ForwardMessage(const tN2kCANMsg&)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1880:6:void SetN2kPGN126996Progmem(tN2kMsg&, const tNMEA2000::tProductInformation*, char*)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2040:6:void tNMEA2000::RespondGroupFunction(const tN2kMsg&, tN2kGroupFunctionCode, long unsigned int, int)	40	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2062:6:void tNMEA2000::HandleGroupFunction(const tN2kMsg&)	32	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2101:6:bool tNMEA2000::IsAddressClaimStarted(int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2175:6:void tNMEA2000::SetN2kSource(unsigned char, int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2183:6:bool tNMEA2000::ReadResetAddressChanged()	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2191:6:bool tNMEA2000::ReadResetDeviceInformationChanged()	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2199:6:void tNMEA2000::GetNextAddress(int, bool)	32	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2307:6:void tNMEA2000::RunMessageHandlers(const tN2kMsg&)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2320:6:void tNMEA2000::SetOnOpen(void (*)())	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2325:6:void tNMEA2000::SetMsgHandler(void (*)(const tN2kMsg&))	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2355:6:void tNMEA2000::DetachMsgHandler(tNMEA2000::tMsgHandler*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2330:6:void tNMEA2000::AttachMsgHandler(tNMEA2000::tMsgHandler*)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2371:6:void tNMEA2000::SetISORqstHandler(bool (*)(long unsigned int, unsigned char, int))	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2377:6:void tNMEA2000::RemoveGroupFunctionHandler(tN2kGroupFunctionHandler*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2395:6:void tNMEA2000::AddGroupFunctionHandler(tN2kGroupFunctionHandler*)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2419:6:void SetN2kPGN59392(tN2kMsg&, unsigned char, unsigned char, long unsigned int)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2433:6:void SetN2kPGN60928(tN2kMsg&, long unsigned int, int, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)	40	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2449:6:void SetN2kPGN60928(tN2kMsg&, uint64_t)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2458:6:void SetN2kPGN126996(tN2kMsg&, unsigned int, unsigned int, const char*, const char*, const char*, const char*, unsigned char, unsigned char)	48	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2475:6:bool ParseN2kPGN126996(const tN2kMsg&, short unsigned int&, short unsigned int&, int, char*, int, char*, int, char*, int, char*, unsigned char&, unsigned char&)	40	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2495:8:size_t ProgmemStrLen(const char*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2503:8:size_t StrLen(const char*)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2510:6:void SetN2kPGN126998(tN2kMsg&, const char*, const char*, const char*, bool)	40	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2560:6:bool ParseN2kPGN126998(const tN2kMsg&, size_t&, char*, size_t&, char*, size_t&, char*)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2574:6:void SetN2kPGN59904(tN2kMsg&, uint8_t, long unsigned int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2581:6:bool ParseN2kPGN59904(const tN2kMsg&, long unsigned int&)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2594:6:void SetN2kPGN126464(tN2kMsg&, uint8_t, tN2kPGNList, const long unsigned int*)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2610:6:void SetN2kPGN126993(tN2kMsg&, uint32_t, uint8_t)	16	static
+../Libs/NMEA2000_minimal/N2kCANMsg.hpp:52:8:void tN2kCANMsg::FreeMessage()	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1321:6:void tNMEA2000::FindFreeCANMsgIndex(long unsigned int, unsigned char, unsigned char, bool, uint8_t&)	48	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1636:6:void tNMEA2000::EndSendTPMessage(int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1613:6:bool tNMEA2000::StartSendTPMessage(const tN2kMsg&, int)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1144:6:bool tNMEA2000::SendMsg(const tN2kMsg&, int)	64	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1082:6:void tNMEA2000::SendHeartbeat(int)	280	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1090:6:void tNMEA2000::SendHeartbeat(bool)	296	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1355:6:bool tNMEA2000::SendTPCM_BAM(int)	288	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1374:6:bool tNMEA2000::SendTPCM_RTS(int)	288	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1394:6:void tNMEA2000::SendTPCM_CTS(long unsigned int, unsigned char, int, unsigned char, unsigned char)	288	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1412:6:void tNMEA2000::SendTPCM_EndAck(long unsigned int, unsigned char, int, uint16_t, unsigned char)	288	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1429:6:void tNMEA2000::SendTPCM_Abort(long unsigned int, unsigned char, int, unsigned char)	288	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1449:6:bool tNMEA2000::SendTPDT(int)	288	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1784:6:void tNMEA2000::SendIsoAddressClaim(unsigned char, int, long unsigned int)	288	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:824:6:void tNMEA2000::SetDeviceInformationInstances(uint8_t, uint8_t, uint8_t, int)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2080:6:void tNMEA2000::StartAddressClaim(int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2093:6:void tNMEA2000::StartAddressClaim()	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:914:6:bool tNMEA2000::Open()	48	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:975:6:void tNMEA2000::Restart()	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2142:6:void tNMEA2000::HandleCommandedAddress(uint64_t, unsigned char, int)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2154:6:void tNMEA2000::HandleCommandedAddress(const tN2kMsg&)	48	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2117:6:void tNMEA2000::HandleISOAddressClaim(const tN2kMsg&)	32	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1815:6:void tNMEA2000::SendTxPGNList(unsigned char, int, bool)	296	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1848:6:void tNMEA2000::SendRxPGNList(unsigned char, int, bool)	296	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1909:6:bool tNMEA2000::SendProductInformation(unsigned char, int, bool)	312	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1905:6:bool tNMEA2000::SendProductInformation(int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1951:6:bool tNMEA2000::SendConfigurationInformation(unsigned char, int, bool)	296	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1947:6:bool tNMEA2000::SendConfigurationInformation(int)	0	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1984:6:void tNMEA2000::RespondISORequest(const tN2kMsg&, long unsigned int, int)	288	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2020:6:void tNMEA2000::HandleISORequest(const tN2kMsg&)	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2230:6:bool tNMEA2000::HandleReceivedSystemMessage(int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1473:6:bool tNMEA2000::TestHandleTPMessage(long unsigned int, unsigned char, unsigned char, unsigned char, unsigned char*, uint8_t&)	72	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1664:9:uint8_t tNMEA2000::SetN2kCANBufMsg(long unsigned int, unsigned char, unsigned char*)	80	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1643:6:void tNMEA2000::SendPendingTPMessage(int)	16	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:1125:6:void tNMEA2000::SendPendingInformation()	24	static
+../Libs/NMEA2000_minimal/NMEA2000.cpp:2264:6:void tNMEA2000::ParseMessages()	32	static

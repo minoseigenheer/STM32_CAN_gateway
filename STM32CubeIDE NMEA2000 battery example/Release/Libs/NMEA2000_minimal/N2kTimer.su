@@ -1,0 +1,3 @@
+../Libs/NMEA2000_minimal/N2kTimer.cpp:25:14:uint32_t N2kMillis()	0	static
+../Libs/NMEA2000_minimal/N2kTimer.cpp:28:12:uint64_t N2kMillis64()	8	static
+../Libs/NMEA2000_minimal/N2kTimer.cpp:40:19:tN2kSchedulerTime tN2kScheduler::Now()	0	static

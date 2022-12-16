@@ -1,0 +1,43 @@
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kMsg.hpp:50:13:bool N2kIsNA(double)	24	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kTimer.hpp:106:3:tN2kSyncScheduler::tN2kSyncScheduler(bool, uint32_t, uint32_t)	24	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kTimer.hpp:115:15:void tN2kSyncScheduler::Disable()	16	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kTimer.hpp:119:15:bool tN2kSyncScheduler::IsTime()	16	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kTimer.hpp:134:8:void tN2kSyncScheduler::UpdateNextTime()	144	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kMessages.hpp:56:15:double hToSeconds(double)	16	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kMessages.hpp:812:13:void SetN2kDCStatus(tN2kMsg&, unsigned char, unsigned char, tN2kDCType, unsigned char, unsigned char, double, double, double)	56	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kMessages.hpp:840:13:void SetN2kChargerStatus(tN2kMsg&, unsigned char, unsigned char, tN2kChargeState, tN2kChargerMode, tN2kOnOff, tN2kOnOff, double)	48	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kMessages.hpp:866:13:void SetN2kDCBatStatus(tN2kMsg&, unsigned char, double, double, double, unsigned char)	48	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/STM32 CAN gateway/Cube CAN gateway/Libs/NMEA2000_minimal/N2kMessages.hpp:898:13:void SetN2kBatConf(tN2kMsg&, unsigned char, tN2kBatType, tN2kBatEqSupport, tN2kBatNomVolt, tN2kBatChem, double, int8_t, double, int8_t)	64	static
+../Core/Src/project.cpp:210:10:uint32_t Overall_Parameters()	4	static
+../Core/Src/project.cpp:211:10:uint32_t Diagnostic_Codes()	4	static
+../Core/Src/project.cpp:212:10:uint32_t Battery_Voltage_Parameters()	4	static
+../Core/Src/project.cpp:213:10:uint32_t Cell_Module_Temperature_Parameters()	4	static
+../Core/Src/project.cpp:214:10:uint32_t State_Of_Charge_Parameters()	4	static
+../Core/Src/project.cpp:215:10:uint32_t Energy_Parameters()	4	static
+../Core/Src/project.cpp:344:6:void UpdatePower()	8	static
+../Core/Src/project.cpp:356:8:double PowerAvg()	8	static
+../Core/Src/project.cpp:361:8:double SecondsRemaining()	16	static
+../Core/Src/project.cpp:371:17:tN2kChargeState N2kChargeState()	4	static
+../Core/Src/project.cpp:393:11:tN2kOnOff N2kChargerEnable()	4	static
+../Core/Src/project.cpp:401:6:void sendEmusRequest()	8	static
+../Core/Src/project.cpp:445:6:void resetEmusParameters()	4	static
+../Core/Src/project.cpp:488:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	24	static
+../Core/Src/project.cpp:567:6:void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef*)	16	static
+../Core/Src/project.cpp:577:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+../Core/Src/project.cpp:585:8:float GetTemp(uint16_t)	24	static
+../Core/Src/project.cpp:624:7:float GetInternalTemp(uint16_t)	24	static
+../Core/Src/project.cpp:632:7:float GetVoltage(uint16_t)	16	static
+../Core/Src/project.cpp:636:9:uint8_t GetByteFromBools(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	32	static
+../Core/Src/project.cpp:648:6:void CANSendSoftwareVersion()	8	static
+../Core/Src/project.cpp:679:6:void NextFadeVal()	4	static
+../Core/Src/project.cpp:705:9:uint8_t GammaCorrection(uint8_t)	24	static
+../Core/Src/project.cpp:721:6:void breathingLED()	16	static
+../Core/Src/project.cpp:752:7:float AvgArr(float*, int)	32	static
+../Core/Src/project.cpp:773:19:HAL_StatusTypeDef CAN_Init(CAN_HandleTypeDef*, CAN_TypeDef*, uint32_t, APB1clockSpeed_t)	24	static
+../Core/Src/project.cpp:818:19:HAL_StatusTypeDef SetCANFilter(CAN_HandleTypeDef*, bool, uint32_t, uint32_t, uint32_t)	80	static
+../Core/Src/project.cpp:882:6:void SendN2kBatteryMessages()	336	static
+../Core/Src/project.cpp:937:6:void OnN2kOpen()	8	static
+../Core/Src/project.cpp:951:6:void myCppProcessInit()	24	static
+../Core/Src/project.cpp:1055:6:void myCppProcess()	8	static
+../Core/Src/project.cpp:1091:1:void __static_initialization_and_destruction_0(int, int)	32	static
+../Core/Src/project.cpp:1091:1:cpp)	8	static

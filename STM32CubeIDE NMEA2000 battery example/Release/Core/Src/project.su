@@ -1,0 +1,34 @@
+../Core/Src/project.cpp:212:10:uint32_t Overall_Parameters()	0	static
+../Core/Src/project.cpp:213:10:uint32_t Diagnostic_Codes()	0	static
+../Core/Src/project.cpp:214:10:uint32_t Battery_Voltage_Parameters()	0	static
+../Core/Src/project.cpp:215:10:uint32_t Cell_Module_Temperature_Parameters()	0	static
+../Core/Src/project.cpp:216:10:uint32_t State_Of_Charge_Parameters()	0	static
+../Core/Src/project.cpp:217:10:uint32_t Energy_Parameters()	0	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32CubeIDE EMUS NMEA2000 gateway/Libs/NMEA2000_minimal/N2kTimer.hpp:119:15:bool tN2kSyncScheduler::IsTime()	8	static
+/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32CubeIDE EMUS NMEA2000 gateway/Libs/NMEA2000_minimal/N2kTimer.hpp:134:8:void tN2kSyncScheduler::UpdateNextTime()	24	static
+../Core/Src/project.cpp:938:6:void OnN2kOpen()	8	static
+../Core/Src/project.cpp:345:6:void UpdatePower()	16	static
+../Core/Src/project.cpp:357:8:double PowerAvg()	16	static
+../Core/Src/project.cpp:362:8:double SecondsRemaining()	16	static
+../Core/Src/project.cpp:372:17:tN2kChargeState N2kChargeState()	0	static
+../Core/Src/project.cpp:394:11:tN2kOnOff N2kChargerEnable()	0	static
+../Core/Src/project.cpp:446:6:void resetEmusParameters()	0	static
+../Core/Src/project.cpp:402:6:void sendEmusRequest()	16	static
+../Core/Src/project.cpp:489:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	24	static
+../Core/Src/project.cpp:568:6:void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef*)	0	static
+../Core/Src/project.cpp:586:8:float GetTemp(uint16_t)	24	static
+../Core/Src/project.cpp:625:7:float GetInternalTemp(uint16_t)	8	static
+../Core/Src/project.cpp:633:7:float GetVoltage(uint16_t)	8	static
+../Core/Src/project.cpp:637:9:uint8_t GetByteFromBools(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	16	static
+../Core/Src/project.cpp:649:6:void CANSendSoftwareVersion()	8	static
+../Core/Src/project.cpp:680:6:void NextFadeVal()	8	static
+../Core/Src/project.cpp:706:9:uint8_t GammaCorrection(uint8_t)	0	static
+../Core/Src/project.cpp:722:6:void breathingLED()	32	static
+../Core/Src/project.cpp:578:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	0	static
+../Core/Src/project.cpp:753:7:float AvgArr(float*, int)	24	static
+../Core/Src/project.cpp:774:19:HAL_StatusTypeDef CAN_Init(CAN_HandleTypeDef*, CAN_TypeDef*, uint32_t, APB1clockSpeed_t)	8	static
+../Core/Src/project.cpp:819:19:HAL_StatusTypeDef SetCANFilter(CAN_HandleTypeDef*, bool, uint32_t, uint32_t, uint32_t)	56	static
+../Core/Src/project.cpp:883:6:void SendN2kBatteryMessages()	328	static
+../Core/Src/project.cpp:952:6:void myCppProcessInit()	32	static
+../Core/Src/project.cpp:1056:6:void myCppProcess()	8	static
+../Core/Src/project.cpp:1092:1:cpp)	8	static
