@@ -15,11 +15,13 @@
    - Static battery info like nominal voltage, chemistry... 
 
 
-You need the following libs:
+### Libs (Linked git submodules):
   - NMEA2000 library https://github.com/ttlappalainen/NMEA2000
   - NMEA2000_STM32 CAN library https://github.com/BitterAndReal/NMEA2000_STM32
   - STM32 HAL for your MCU
 
+> Use the following command to update the submodules
+> git submodule update --init --recursive
 
 ---
 ### STM23CubeIDE settings 
@@ -43,7 +45,7 @@ If you are not very experienced with STM23CubeIDE this guide can help to configu
     > Navigate to “Project Manager” > “Advanced Settings” find MX_CAN#_Init” 
     > and enable “Do Not Generate Function Call”.
   - By default, the peripheral MSP initialization function HAL_CAN_MspInit (in stm32xxx_hal_msp.c) is automatically called and takes care of the configuration of the CAN_RX/TX GPIOs, enabling of the peripheral clock and enabling of the CAN interrupts
-  - Check the following link for NMEA2000 examples. https://github.com/ttlappalainen/NMEA2000/tree/master/Examples
+  - Check the following link for more NMEA2000 examples. https://github.com/ttlappalainen/NMEA2000/tree/master/Examples
 
 ---
 Thanks for the great NMEA2000 CAN lib example Teensyx by ttlappalainen.

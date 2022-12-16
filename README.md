@@ -28,3 +28,7 @@ But hardware can be used for many CAN gateway or CAN isolation applications.
  
 <img src="images/STM32_CAN_gateway_pinout.png" width="600" alt="EMUS BMS micro-fit 6p connector | NMEA2000 M12 connector"/>
 
+## Examples
+- [STM32CubeIDE NMEA2000 battery project example](/STM32CubeIDE%20NMEA2000%20battery%20example)
+  > Import projet into STM32CubeIDE
+  > tested with version: 1.10.1
