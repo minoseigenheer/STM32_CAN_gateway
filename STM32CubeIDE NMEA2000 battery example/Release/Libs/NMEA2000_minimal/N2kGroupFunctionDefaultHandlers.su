@@ -1,8 +1,0 @@
-../Libs/NMEA2000_minimal/N2kGroupFunctionDefaultHandlers.cpp:136:6:virtual bool tN2kGroupFunctionHandlerForPGN60928::HandleCommand(const tN2kMsg&, uint8_t, uint8_t, int)	304	static
-../Libs/NMEA2000_minimal/N2kGroupFunctionDefaultHandlers.cpp:184:6:virtual bool tN2kGroupFunctionHandlerForPGN126464::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	320	static
-../Libs/NMEA2000_minimal/N2kGroupFunctionDefaultHandlers.cpp:457:6:virtual bool tN2kGroupFunctionHandlerForPGN126998::HandleCommand(const tN2kMsg&, uint8_t, uint8_t, int)	376	static
-../Libs/NMEA2000_minimal/N2kGroupFunctionDefaultHandlers.cpp:44:6:virtual bool tN2kGroupFunctionHandlerForPGN60928::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	344	static
-../Libs/NMEA2000_minimal/N2kGroupFunction.hpp:92:10:void tN2kGroupFunctionHandler::MatchRequestField(const char*, const char*, bool&, tN2kGroupFunctionParameterErrorCode&)	8	static
-../Libs/NMEA2000_minimal/N2kGroupFunctionDefaultHandlers.cpp:372:6:virtual bool tN2kGroupFunctionHandlerForPGN126998::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	472	static
-../Libs/NMEA2000_minimal/N2kGroupFunctionDefaultHandlers.cpp:269:6:virtual bool tN2kGroupFunctionHandlerForPGN126996::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	424	dynamic,bounded
-../Libs/NMEA2000_minimal/N2kGroupFunctionDefaultHandlers.cpp:504:6:virtual bool tN2kGroupFunctionHandlerForPGN126993::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	56	static

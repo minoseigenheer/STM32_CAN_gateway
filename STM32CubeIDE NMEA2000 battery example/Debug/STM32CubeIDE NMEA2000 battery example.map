@@ -5299,91 +5299,6 @@ Discarded input sections
  .group         0x0000000000000000        0x8 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
  .group         0x0000000000000000        0x8 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
  .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .group         0x0000000000000000        0xc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
  .text          0x0000000000000000        0x0 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
  .data          0x0000000000000000        0x0 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
  .bss           0x0000000000000000        0x0 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
@@ -5415,88 +5330,6 @@ Discarded input sections
                 0x0000000000000000       0x2e ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
  .text._Z5delaym
                 0x0000000000000000       0x16 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0xb44 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x22d ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x2e ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x22 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x1c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x22 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x8e ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x51 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x103 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x6a ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x1df ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x1c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x22 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0xbd ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0xd23 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000    0x14912 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x6d ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000     0x3468 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x17b ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x5c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x5be ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x644 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x1cb ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x114 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x214 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x27 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x13c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x1bc ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x30 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x3c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x40f ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x57 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x46a ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x1c3 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x88 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x24f ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x141 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x8d1 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x1ed ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x82 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0xdf ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x52 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x18 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x3c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x34 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x16 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x43 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x34 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x58 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x71 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x16 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x12a ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x364 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x35 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x20 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x1c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x1c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x52 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x22 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x52 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0xd5 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x1c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x3d ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x16 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x16 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x28 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x7c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x17 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0xee ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x18a ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000      0x3d1 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x8e ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x1c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x59 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000000000       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
  .group         0x0000000000000000        0xc ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
  .group         0x0000000000000000        0xc ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
  .group         0x0000000000000000        0xc ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
@@ -6271,7 +6104,6 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x29 ./USB_DEVICE/App/usb_device.o
  .debug_macro   0x0000000000000000       0x16 ./USB_DEVICE/App/usb_device.o
  .debug_macro   0x0000000000000000       0x20 ./USB_DEVICE/App/usb_device.o
- .debug_macro   0x0000000000000000       0x3a ./USB_DEVICE/App/usb_device.o
  .debug_macro   0x0000000000000000       0x72 ./USB_DEVICE/App/usb_device.o
  .debug_macro   0x0000000000000000      0x1c2 ./USB_DEVICE/App/usb_device.o
  .debug_macro   0x0000000000000000      0x10a ./USB_DEVICE/App/usb_device.o
@@ -9520,7 +9352,7 @@ LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.id
 LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.macos64_1.0.0.202111181127/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
 LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.macos64_1.0.0.202111181127/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
 
-.debug_info     0x0000000000000000    0x3cc67
+.debug_info     0x0000000000000000    0x3cc63
  .debug_info    0x0000000000000000     0x4b2a ./Core/Src/cpp_link.o
  .debug_info    0x0000000000004b2a     0x1695 ./Core/Src/main.o
  .debug_info    0x00000000000061bf     0x6039 ./Core/Src/project.o
@@ -9552,17 +9384,17 @@ LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.id
  .debug_info    0x000000000002dc84      0x28d ./Libs/NMEA2000/src/N2kStream.o
  .debug_info    0x000000000002df11      0x47e ./Libs/NMEA2000/src/N2kTimer.o
  .debug_info    0x000000000002e38f     0x7592 ./Libs/NMEA2000/src/NMEA2000.o
- .debug_info    0x0000000000035921     0x1d3f ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_info    0x0000000000037660     0x1081 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
- .debug_info    0x00000000000386e1      0xb2e ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
- .debug_info    0x000000000003920f      0x9e2 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
- .debug_info    0x0000000000039bf1      0x741 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
- .debug_info    0x000000000003a332      0x6ee ./USB_DEVICE/App/usb_device.o
- .debug_info    0x000000000003aa20      0x484 ./USB_DEVICE/App/usbd_desc.o
- .debug_info    0x000000000003aea4      0x32e ./USB_DEVICE/App/usbd_dfu_if.o
- .debug_info    0x000000000003b1d2     0x1a95 ./USB_DEVICE/Target/usbd_conf.o
+ .debug_info    0x0000000000035921     0x1d3b ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
+ .debug_info    0x000000000003765c     0x1081 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
+ .debug_info    0x00000000000386dd      0xb2e ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_info    0x000000000003920b      0x9e2 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+ .debug_info    0x0000000000039bed      0x741 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+ .debug_info    0x000000000003a32e      0x6ee ./USB_DEVICE/App/usb_device.o
+ .debug_info    0x000000000003aa1c      0x484 ./USB_DEVICE/App/usbd_desc.o
+ .debug_info    0x000000000003aea0      0x32e ./USB_DEVICE/App/usbd_dfu_if.o
+ .debug_info    0x000000000003b1ce     0x1a95 ./USB_DEVICE/Target/usbd_conf.o
 
-.debug_abbrev   0x0000000000000000     0x74ca
+.debug_abbrev   0x0000000000000000     0x74c7
  .debug_abbrev  0x0000000000000000      0x648 ./Core/Src/cpp_link.o
  .debug_abbrev  0x0000000000000648      0x303 ./Core/Src/main.o
  .debug_abbrev  0x000000000000094b      0x918 ./Core/Src/project.o
@@ -9594,15 +9426,15 @@ LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.id
  .debug_abbrev  0x00000000000051ee      0x12f ./Libs/NMEA2000/src/N2kStream.o
  .debug_abbrev  0x000000000000531d      0x1be ./Libs/NMEA2000/src/N2kTimer.o
  .debug_abbrev  0x00000000000054db      0x8fd ./Libs/NMEA2000/src/NMEA2000.o
- .debug_abbrev  0x0000000000005dd8      0x5f2 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_abbrev  0x00000000000063ca      0x312 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
- .debug_abbrev  0x00000000000066dc      0x236 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
- .debug_abbrev  0x0000000000006912      0x257 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
- .debug_abbrev  0x0000000000006b69      0x183 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
- .debug_abbrev  0x0000000000006cec      0x18a ./USB_DEVICE/App/usb_device.o
- .debug_abbrev  0x0000000000006e76      0x1fa ./USB_DEVICE/App/usbd_desc.o
- .debug_abbrev  0x0000000000007070      0x11d ./USB_DEVICE/App/usbd_dfu_if.o
- .debug_abbrev  0x000000000000718d      0x33d ./USB_DEVICE/Target/usbd_conf.o
+ .debug_abbrev  0x0000000000005dd8      0x5ef ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
+ .debug_abbrev  0x00000000000063c7      0x312 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
+ .debug_abbrev  0x00000000000066d9      0x236 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_abbrev  0x000000000000690f      0x257 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+ .debug_abbrev  0x0000000000006b66      0x183 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+ .debug_abbrev  0x0000000000006ce9      0x18a ./USB_DEVICE/App/usb_device.o
+ .debug_abbrev  0x0000000000006e73      0x1fa ./USB_DEVICE/App/usbd_desc.o
+ .debug_abbrev  0x000000000000706d      0x11d ./USB_DEVICE/App/usbd_dfu_if.o
+ .debug_abbrev  0x000000000000718a      0x33d ./USB_DEVICE/Target/usbd_conf.o
 
 .debug_aranges  0x0000000000000000     0x29e0
  .debug_aranges
@@ -9728,7 +9560,7 @@ LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.id
  .debug_ranges  0x0000000000002680       0x38 ./USB_DEVICE/App/usbd_dfu_if.o
  .debug_ranges  0x00000000000026b8      0x100 ./USB_DEVICE/Target/usbd_conf.o
 
-.debug_macro    0x0000000000000000    0x2924b
+.debug_macro    0x0000000000000000    0x28c78
  .debug_macro   0x0000000000000000      0x81f ./Core/Src/cpp_link.o
  .debug_macro   0x000000000000081f      0xb44 ./Core/Src/cpp_link.o
  .debug_macro   0x0000000000001363      0x22d ./Core/Src/cpp_link.o
@@ -9914,26 +9746,23 @@ LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.id
  .debug_macro   0x0000000000026203      0x158 ./Libs/NMEA2000/src/N2kStream.o
  .debug_macro   0x000000000002635b       0xea ./Libs/NMEA2000/src/N2kTimer.o
  .debug_macro   0x0000000000026445      0x33b ./Libs/NMEA2000/src/NMEA2000.o
- .debug_macro   0x0000000000026780      0x48c ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000026c0c       0x3a ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000026c46      0x137 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000026d7d       0x10 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_macro   0x0000000000026d8d      0x400 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
- .debug_macro   0x000000000002718d       0x97 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
- .debug_macro   0x0000000000027224       0xfd ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
- .debug_macro   0x0000000000027321      0x10a ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
- .debug_macro   0x000000000002742b      0x3e7 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
- .debug_macro   0x0000000000027812      0x1c8 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
- .debug_macro   0x00000000000279da      0x3f1 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
- .debug_macro   0x0000000000027dcb      0x3ed ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
- .debug_macro   0x00000000000281b8      0x421 ./USB_DEVICE/App/usb_device.o
- .debug_macro   0x00000000000285d9       0x22 ./USB_DEVICE/App/usb_device.o
- .debug_macro   0x00000000000285fb      0x424 ./USB_DEVICE/App/usbd_desc.o
- .debug_macro   0x0000000000028a1f       0x1c ./USB_DEVICE/App/usbd_desc.o
- .debug_macro   0x0000000000028a3b      0x40c ./USB_DEVICE/App/usbd_dfu_if.o
- .debug_macro   0x0000000000028e47      0x404 ./USB_DEVICE/Target/usbd_conf.o
+ .debug_macro   0x0000000000026780      0x400 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
+ .debug_macro   0x0000000000026b80       0x97 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
+ .debug_macro   0x0000000000026c17       0xfd ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
+ .debug_macro   0x0000000000026d14      0x10a ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
+ .debug_macro   0x0000000000026e1e      0x3e7 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_macro   0x0000000000027205      0x1c8 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_macro   0x00000000000273cd      0x3f1 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+ .debug_macro   0x00000000000277be      0x3ed ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+ .debug_macro   0x0000000000027bab      0x421 ./USB_DEVICE/App/usb_device.o
+ .debug_macro   0x0000000000027fcc       0x3a ./USB_DEVICE/App/usb_device.o
+ .debug_macro   0x0000000000028006       0x22 ./USB_DEVICE/App/usb_device.o
+ .debug_macro   0x0000000000028028      0x424 ./USB_DEVICE/App/usbd_desc.o
+ .debug_macro   0x000000000002844c       0x1c ./USB_DEVICE/App/usbd_desc.o
+ .debug_macro   0x0000000000028468      0x40c ./USB_DEVICE/App/usbd_dfu_if.o
+ .debug_macro   0x0000000000028874      0x404 ./USB_DEVICE/Target/usbd_conf.o
 
-.debug_line     0x0000000000000000    0x2cacd
+.debug_line     0x0000000000000000    0x2c461
  .debug_line    0x0000000000000000     0x15bc ./Core/Src/cpp_link.o
  .debug_line    0x00000000000015bc      0xc47 ./Core/Src/main.o
  .debug_line    0x0000000000002203     0x1936 ./Core/Src/project.o
@@ -9965,17 +9794,17 @@ LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.id
  .debug_line    0x000000000001e88e      0x5dc ./Libs/NMEA2000/src/N2kStream.o
  .debug_line    0x000000000001ee6a      0x600 ./Libs/NMEA2000/src/N2kTimer.o
  .debug_line    0x000000000001f46a     0x5517 ./Libs/NMEA2000/src/NMEA2000.o
- .debug_line    0x0000000000024981     0x1707 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
- .debug_line    0x0000000000026088     0x121c ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
- .debug_line    0x00000000000272a4      0xe2a ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
- .debug_line    0x00000000000280ce     0x1067 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
- .debug_line    0x0000000000029135      0xac0 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
- .debug_line    0x0000000000029bf5      0xa80 ./USB_DEVICE/App/usb_device.o
- .debug_line    0x000000000002a675      0xb49 ./USB_DEVICE/App/usbd_desc.o
- .debug_line    0x000000000002b1be      0xac1 ./USB_DEVICE/App/usbd_dfu_if.o
- .debug_line    0x000000000002bc7f      0xe4e ./USB_DEVICE/Target/usbd_conf.o
+ .debug_line    0x0000000000024981     0x109b ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
+ .debug_line    0x0000000000025a1c     0x121c ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
+ .debug_line    0x0000000000026c38      0xe2a ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_line    0x0000000000027a62     0x1067 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+ .debug_line    0x0000000000028ac9      0xac0 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+ .debug_line    0x0000000000029589      0xa80 ./USB_DEVICE/App/usb_device.o
+ .debug_line    0x000000000002a009      0xb49 ./USB_DEVICE/App/usbd_desc.o
+ .debug_line    0x000000000002ab52      0xac1 ./USB_DEVICE/App/usbd_dfu_if.o
+ .debug_line    0x000000000002b613      0xe4e ./USB_DEVICE/Target/usbd_conf.o
 
-.debug_str      0x0000000000000000    0xd7ad9
+.debug_str      0x0000000000000000    0xd7ba9
  .debug_str     0x0000000000000000    0xbf7bd ./Core/Src/cpp_link.o
                                       0xc001e (size before relaxing)
  .debug_str     0x00000000000bf7bd     0x1bb1 ./Core/Src/main.o
@@ -10038,23 +9867,23 @@ LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.id
                                        0x6312 (size before relaxing)
  .debug_str     0x00000000000d2df9     0x2cb0 ./Libs/NMEA2000/src/NMEA2000.o
                                        0xe60b (size before relaxing)
- .debug_str     0x00000000000d5aa9      0xba2 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
-                                      0xb9a61 (size before relaxing)
- .debug_str     0x00000000000d664b      0xbf1 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
+ .debug_str     0x00000000000d5aa9      0xc72 ./Libs/NMEA2000_STM32/NMEA2000_STM32.o
+                                       0x19ad (size before relaxing)
+ .debug_str     0x00000000000d671b      0xbf1 ./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o
                                       0xb768a (size before relaxing)
- .debug_str     0x00000000000d723c      0x292 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_str     0x00000000000d730c      0x292 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
                                       0xb700d (size before relaxing)
- .debug_str     0x00000000000d74ce      0x103 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+ .debug_str     0x00000000000d759e      0x103 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
                                       0xb6f27 (size before relaxing)
- .debug_str     0x00000000000d75d1       0x78 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+ .debug_str     0x00000000000d76a1       0x78 ./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
                                       0xb6e54 (size before relaxing)
- .debug_str     0x00000000000d7649       0xd3 ./USB_DEVICE/App/usb_device.o
+ .debug_str     0x00000000000d7719       0xd3 ./USB_DEVICE/App/usb_device.o
                                       0xb73d0 (size before relaxing)
- .debug_str     0x00000000000d771c      0x254 ./USB_DEVICE/App/usbd_desc.o
+ .debug_str     0x00000000000d77ec      0x254 ./USB_DEVICE/App/usbd_desc.o
                                       0xb6d85 (size before relaxing)
- .debug_str     0x00000000000d7970       0xf1 ./USB_DEVICE/App/usbd_dfu_if.o
+ .debug_str     0x00000000000d7a40       0xf1 ./USB_DEVICE/App/usbd_dfu_if.o
                                       0xb7001 (size before relaxing)
- .debug_str     0x00000000000d7a61       0x78 ./USB_DEVICE/Target/usbd_conf.o
+ .debug_str     0x00000000000d7b31       0x78 ./USB_DEVICE/Target/usbd_conf.o
                                       0xb7fe6 (size before relaxing)
 
 .comment        0x0000000000000000       0x50

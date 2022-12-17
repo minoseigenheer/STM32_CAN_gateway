@@ -1,4 +1,0 @@
-../Libs/NMEA2000_minimal/N2kStream.cpp:32:8:size_t N2kStream::print(const char*)	16	static
-../Libs/NMEA2000_minimal/N2kStream.cpp:55:8:size_t N2kStream::print(int, uint8_t)	56	static
-../Libs/NMEA2000_minimal/N2kStream.cpp:75:8:size_t N2kStream::println(const char*)	16	static
-../Libs/NMEA2000_minimal/N2kStream.cpp:79:8:size_t N2kStream::println(int, uint8_t)	16	static

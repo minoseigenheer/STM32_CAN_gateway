@@ -1,0 +1,8 @@
+../Libs/NMEA2000/src/ActisenseReader.h:78:10:bool tActisenseReader::Handling() const	16	static
+../Libs/NMEA2000/src/ActisenseReader.cpp:31:1:tActisenseReader::tActisenseReader()	16	static
+../Libs/NMEA2000/src/ActisenseReader.cpp:38:6:void tActisenseReader::ClearBuffer()	16	static
+../Libs/NMEA2000/src/ActisenseReader.cpp:47:6:bool tActisenseReader::AddByteToBuffer(char)	16	static
+../Libs/NMEA2000/src/ActisenseReader.cpp:63:6:bool tActisenseReader::CheckMessage(tN2kMsg&)	32	static
+../Libs/NMEA2000/src/ActisenseReader.cpp:100:6:bool tActisenseReader::IsStart(char)	16	static
+../Libs/NMEA2000/src/ActisenseReader.cpp:110:6:bool tActisenseReader::GetMessageFromStream(tN2kMsg&, bool)	32	static
+../Libs/NMEA2000/src/ActisenseReader.cpp:183:6:void tActisenseReader::ParseMessages()	280	static

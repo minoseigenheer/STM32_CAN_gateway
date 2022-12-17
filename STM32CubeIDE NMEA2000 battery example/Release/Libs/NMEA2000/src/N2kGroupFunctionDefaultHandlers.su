@@ -1,0 +1,23 @@
+../Libs/NMEA2000/src/N2kMsg.h:111:8:bool tN2kMsg::IsTPMessage() const	16	static
+../Libs/NMEA2000/src/N2kGroupFunction.h:92:10:void tN2kGroupFunctionHandler::MatchRequestField(const char*, const char*, bool&, tN2kGroupFunctionParameterErrorCode&)	32	static
+../Libs/NMEA2000/src/NMEA2000.h:147:5:tNMEA2000::tDeviceInformation::tDeviceInformation()	16	static
+../Libs/NMEA2000/src/NMEA2000.h:149:14:uint32_t tNMEA2000::tDeviceInformation::GetUniqueNumber() const	16	static
+../Libs/NMEA2000/src/NMEA2000.h:151:14:uint16_t tNMEA2000::tDeviceInformation::GetManufacturerCode() const	16	static
+../Libs/NMEA2000/src/NMEA2000.h:154:19:unsigned char tNMEA2000::tDeviceInformation::GetDeviceInstanceLower() const	16	static
+../Libs/NMEA2000/src/NMEA2000.h:155:19:unsigned char tNMEA2000::tDeviceInformation::GetDeviceInstanceUpper() const	16	static
+../Libs/NMEA2000/src/NMEA2000.h:157:19:unsigned char tNMEA2000::tDeviceInformation::GetDeviceFunction() const	16	static
+../Libs/NMEA2000/src/NMEA2000.h:159:19:unsigned char tNMEA2000::tDeviceInformation::GetDeviceClass() const	16	static
+../Libs/NMEA2000/src/NMEA2000.h:161:19:unsigned char tNMEA2000::tDeviceInformation::GetIndustryGroup() const	16	static
+../Libs/NMEA2000/src/NMEA2000.h:163:19:unsigned char tNMEA2000::tDeviceInformation::GetSystemInstance() const	16	static
+../Libs/NMEA2000/src/NMEA2000.h:611:30:const tNMEA2000::tDeviceInformation tNMEA2000::GetDeviceInformation(int)	24	static
+../Libs/NMEA2000/src/NMEA2000.h:729:17:static bool tNMEA2000::IsBroadcast(unsigned char)	16	static
+../Libs/NMEA2000/src/N2kGroupFunctionDefaultHandlers.cpp:44:6:virtual bool tN2kGroupFunctionHandlerForPGN60928::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	336	static
+../Libs/NMEA2000/src/N2kGroupFunctionDefaultHandlers.cpp:136:6:virtual bool tN2kGroupFunctionHandlerForPGN60928::HandleCommand(const tN2kMsg&, uint8_t, uint8_t, int)	312	static
+../Libs/NMEA2000/src/N2kGroupFunctionDefaultHandlers.cpp:184:6:virtual bool tN2kGroupFunctionHandlerForPGN126464::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	320	static
+../Libs/NMEA2000/src/N2kGroupFunctionDefaultHandlers.cpp:269:6:virtual bool tN2kGroupFunctionHandlerForPGN126996::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	376	dynamic
+../Libs/NMEA2000/src/N2kGroupFunctionDefaultHandlers.cpp:372:6:virtual bool tN2kGroupFunctionHandlerForPGN126998::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	472	static
+../Libs/NMEA2000/src/N2kGroupFunctionDefaultHandlers.cpp:457:6:virtual bool tN2kGroupFunctionHandlerForPGN126998::HandleCommand(const tN2kMsg&, uint8_t, uint8_t, int)	384	static
+../Libs/NMEA2000/src/N2kGroupFunctionDefaultHandlers.cpp:504:6:virtual bool tN2kGroupFunctionHandlerForPGN126993::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	56	static
+../Libs/NMEA2000/src/N2kGroupFunction.h:84:32:void tN2kGroupFunctionHandler::MatchRequestField(T, T, T, bool&, tN2kGroupFunctionParameterErrorCode&) [with T = long unsigned int]	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.h:84:32:void tN2kGroupFunctionHandler::MatchRequestField(T, T, T, bool&, tN2kGroupFunctionParameterErrorCode&) [with T = short unsigned int]	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.h:84:32:void tN2kGroupFunctionHandler::MatchRequestField(T, T, T, bool&, tN2kGroupFunctionParameterErrorCode&) [with T = unsigned char]	16	static

@@ -1,7 +1,0 @@
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/Seasmart.cpp:33:12:int appendByte(char*, uint8_t)	16	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/Seasmart.cpp:39:12:int append2Bytes(char*, uint16_t)	16	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/Seasmart.cpp:45:12:int appendWord(char*, uint32_t)	16	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/Seasmart.cpp:51:16:uint8_t nmea_compute_checksum(const char*)	24	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/Seasmart.cpp:67:8:size_t N2kToSeasmart(const tN2kMsg&, uint32_t, char*, size_t)	40	static
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/Seasmart.cpp:102:13:bool readNHexByte(const char*, unsigned int, uint32_t&)	64	dynamic
-/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/NMEA2000/NMEA2000/src/Seasmart.cpp:120:6:bool SeasmartToN2k(const char*, uint32_t&, tN2kMsg&)	56	static

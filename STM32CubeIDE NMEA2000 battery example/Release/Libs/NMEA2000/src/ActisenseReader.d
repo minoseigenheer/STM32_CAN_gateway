@@ -1,0 +1,10 @@
+Libs/NMEA2000/src/ActisenseReader.o: \
+ ../Libs/NMEA2000/src/ActisenseReader.cpp \
+ ../Libs/NMEA2000/src/ActisenseReader.h ../Libs/NMEA2000/src/N2kMsg.h \
+ ../Libs/NMEA2000/src/N2kStream.h ../Libs/NMEA2000/src/N2kDef.h \
+ ../Libs/NMEA2000/src/N2kTimer.h
+../Libs/NMEA2000/src/ActisenseReader.h:
+../Libs/NMEA2000/src/N2kMsg.h:
+../Libs/NMEA2000/src/N2kStream.h:
+../Libs/NMEA2000/src/N2kDef.h:
+../Libs/NMEA2000/src/N2kTimer.h:

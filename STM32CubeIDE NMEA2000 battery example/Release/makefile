@@ -13,8 +13,8 @@ RM := rm -rf
 -include USB_DEVICE/App/subdir.mk
 -include Middlewares/ST/STM32_USB_Device_Library/Core/Src/subdir.mk
 -include Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/subdir.mk
--include Libs/NMEA2000_minimal/subdir.mk
 -include Libs/NMEA2000_STM32/subdir.mk
+-include Libs/NMEA2000/src/subdir.mk
 -include Drivers/STM32F1xx_HAL_Driver/Src/subdir.mk
 -include Core/Startup/subdir.mk
 -include Core/Src/subdir.mk
@@ -55,34 +55,34 @@ $(wildcard ../makefile.init) \
 $(wildcard ../makefile.targets) \
 
 
-BUILD_ARTIFACT_NAME := Cube CAN gateway
+BUILD_ARTIFACT_NAME := STM32CubeIDE NMEA2000 battery example
 BUILD_ARTIFACT_EXTENSION := elf
 BUILD_ARTIFACT_PREFIX :=
 BUILD_ARTIFACT := $(BUILD_ARTIFACT_PREFIX)$(BUILD_ARTIFACT_NAME)$(if $(BUILD_ARTIFACT_EXTENSION),.$(BUILD_ARTIFACT_EXTENSION),)
 
 # Add inputs and outputs from these tool invocations to the build variables 
 EXECUTABLES += \
-Cube\ CAN\ gateway.elf \
+STM32CubeIDE\ NMEA2000\ battery\ example.elf \
 
 MAP_FILES += \
-Cube\ CAN\ gateway.map \
+STM32CubeIDE\ NMEA2000\ battery\ example.map \
 
 SIZE_OUTPUT += \
 default.size.stdout \
 
 OBJDUMP_LIST += \
-Cube\ CAN\ gateway.list \
+STM32CubeIDE\ NMEA2000\ battery\ example.list \
 
 
 # All Target
 all: main-build
 
 # Main-build Target
-main-build: Cube\ CAN\ gateway.elf secondary-outputs
+main-build: STM32CubeIDE\ NMEA2000\ battery\ example.elf secondary-outputs
 
 # Tool invocations
-Cube\ CAN\ gateway.elf Cube\ CAN\ gateway.map: $(OBJS) $(USER_OBJS) /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32CubeIDE\ EMUS\ NMEA2000\ gateway/STM32F105RBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-g++ -o "Cube CAN gateway.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32CubeIDE EMUS NMEA2000 gateway/STM32F105RBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Cube CAN gateway.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+STM32CubeIDE\ NMEA2000\ battery\ example.elf STM32CubeIDE\ NMEA2000\ battery\ example.map: $(OBJS) $(USER_OBJS) /Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter\ and\ Real/PROJECTEN/programeren/Embedded\ projects/EMUS_NMEA2000_gateway/STM32\ CAN\ gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE\ NMEA2000\ battery\ example/STM32F105RBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-g++ -o "STM32CubeIDE NMEA2000 battery example.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"/Users/minoseigenheer/Library/CloudStorage/OneDrive-BitterandReal/Bitter and Real/PROJECTEN/programeren/Embedded projects/EMUS_NMEA2000_gateway/STM32 CAN gateway/STM32_NMEA2000_CAN_gateway_hardware/STM32CubeIDE NMEA2000 battery example/STM32F105RBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32CubeIDE NMEA2000 battery example.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
@@ -91,14 +91,14 @@ default.size.stdout: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	@echo 'Finished building: $@'
 	@echo ' '
 
-Cube\ CAN\ gateway.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-objdump -h -S $(EXECUTABLES) > "Cube CAN gateway.list"
+STM32CubeIDE\ NMEA2000\ battery\ example.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-objdump -h -S $(EXECUTABLES) > "STM32CubeIDE NMEA2000 battery example.list"
 	@echo 'Finished building: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) Cube\ CAN\ gateway.elf Cube\ CAN\ gateway.list Cube\ CAN\ gateway.map Cube\\ CAN\\ gateway.elf default.size.stdout
+	-$(RM) STM32CubeIDE\ NMEA2000\ battery\ example.elf STM32CubeIDE\ NMEA2000\ battery\ example.list STM32CubeIDE\ NMEA2000\ battery\ example.map STM32CubeIDE\\ NMEA2000\\ battery\\ example.elf default.size.stdout
 	-@echo ' '
 
 secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST)

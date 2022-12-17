@@ -1,0 +1,28 @@
+../Libs/NMEA2000/src/NMEA2000.h:729:17:static bool tNMEA2000::IsBroadcast(unsigned char)	16	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:30:1:tN2kGroupFunctionHandler::tN2kGroupFunctionHandler(tNMEA2000*, long unsigned int)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:38:6:virtual bool tN2kGroupFunctionHandler::Handle(const tN2kMsg&, tN2kGroupFunctionCode, long unsigned int, int)	80	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:108:50:virtual tN2kGroupFunctionTransmissionOrPriorityErrorCode tN2kGroupFunctionHandler::GetRequestGroupFunctionTransmissionOrPriorityErrorCode(uint32_t, uint16_t, bool, uint32_t, uint32_t, bool, uint16_t)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:138:6:virtual bool tN2kGroupFunctionHandler::HandleRequest(const tN2kMsg&, uint32_t, uint16_t, uint8_t, int)	56	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:170:6:virtual bool tN2kGroupFunctionHandler::HandleCommand(const tN2kMsg&, uint8_t, uint8_t, int)	56	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:189:6:virtual bool tN2kGroupFunctionHandler::HandleAcknowledge(const tN2kMsg&, tN2kGroupFunctionPGNErrorCode, tN2kGroupFunctionTransmissionOrPriorityErrorCode, uint8_t, int)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:199:6:virtual bool tN2kGroupFunctionHandler::HandleReadFields(const tN2kMsg&, uint16_t, uint8_t, uint8_t, uint8_t, uint8_t, int)	56	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:218:6:virtual bool tN2kGroupFunctionHandler::HandleReadFieldsReply(const tN2kMsg&, int)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:224:6:virtual bool tN2kGroupFunctionHandler::HandleWriteFields(const tN2kMsg&, uint16_t, uint8_t, uint8_t, uint8_t, uint8_t, int)	56	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:243:6:virtual bool tN2kGroupFunctionHandler::HandleWriteFieldsReply(const tN2kMsg&, int)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:249:15:static long unsigned int tN2kGroupFunctionHandler::GetPGNForGroupFunction(const tN2kMsg&)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:255:6:static bool tN2kGroupFunctionHandler::Parse(const tN2kMsg&, tN2kGroupFunctionCode&, long unsigned int&)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:271:6:static bool tN2kGroupFunctionHandler::ParseRequestParams(const tN2kMsg&, uint32_t&, uint16_t&, uint8_t&)	32	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:285:6:static bool tN2kGroupFunctionHandler::StartParseRequestPairParameters(const tN2kMsg&, int&)	16	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:293:6:static bool tN2kGroupFunctionHandler::ParseCommandParams(const tN2kMsg&, uint8_t&, uint8_t&)	32	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:305:6:static bool tN2kGroupFunctionHandler::StartParseCommandPairParameters(const tN2kMsg&, int&)	16	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:313:6:static bool tN2kGroupFunctionHandler::ParseAcknowledgeParams(const tN2kMsg&, tN2kGroupFunctionPGNErrorCode&, tN2kGroupFunctionTransmissionOrPriorityErrorCode&, uint8_t&)	32	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:330:6:static bool tN2kGroupFunctionHandler::StartParseReadOrWriteParameters(const tN2kMsg&, bool, int&)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:342:6:static bool tN2kGroupFunctionHandler::ParseReadOrWriteParams(const tN2kMsg&, uint16_t&, uint8_t&, uint8_t&, uint8_t&, uint8_t&, bool)	32	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:366:6:void SetStartReadOrWriteReply(tN2kMsg&, unsigned char, long unsigned int, tN2kGroupFunctionCode, uint16_t, uint8_t, uint8_t, uint8_t, uint8_t, bool)	32	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:388:6:static void tN2kGroupFunctionHandler::SetStartReadReply(tN2kMsg&, unsigned char, long unsigned int, uint16_t, uint8_t, uint8_t, uint8_t, uint8_t, bool)	48	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:402:6:static void tN2kGroupFunctionHandler::SetStartWriteReply(tN2kMsg&, unsigned char, long unsigned int, uint16_t, uint8_t, uint8_t, uint8_t, uint8_t, bool)	48	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:416:6:static void tN2kGroupFunctionHandler::SetStartAcknowledge(tN2kMsg&, unsigned char, long unsigned int, tN2kGroupFunctionPGNErrorCode, tN2kGroupFunctionTransmissionOrPriorityErrorCode, uint8_t)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:433:6:static void tN2kGroupFunctionHandler::ChangePNGErrorCode(tN2kMsg&, tN2kGroupFunctionPGNErrorCode)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:441:6:static void tN2kGroupFunctionHandler::ChangeTransmissionOrPriorityErrorCode(tN2kMsg&, tN2kGroupFunctionTransmissionOrPriorityErrorCode)	24	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:449:6:static void tN2kGroupFunctionHandler::AddAcknowledgeParameter(tN2kMsg&, uint8_t, tN2kGroupFunctionParameterErrorCode)	16	static
+../Libs/NMEA2000/src/N2kGroupFunction.cpp:461:6:static void tN2kGroupFunctionHandler::SendAcknowledge(tNMEA2000*, unsigned char, int, long unsigned int, tN2kGroupFunctionPGNErrorCode, tN2kGroupFunctionTransmissionOrPriorityErrorCode, uint8_t, tN2kGroupFunctionParameterErrorCode)	296	static
