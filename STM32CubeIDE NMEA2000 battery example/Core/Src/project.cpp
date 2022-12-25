@@ -82,7 +82,7 @@ unsigned char SequenceID = 0; // counter
 // *****************************************************************************
 
 //tNMEA2000_STM32 NMEA2000;
-tNMEA2000 &NMEA2000 = *( new tNMEA2000_STM32(&hcan2) );
+tNMEA2000 &NMEA2000 = *( new tNMEA2000_STM32(&hcan2, tNMEA2000_STM32::CAN250kbit) );
 
 // List here messages your device will transmit.
 const unsigned long TransmitMessagesBattery[] PROGMEM={127506L,127507L,127508L,127513L,0};
