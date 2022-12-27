@@ -18,19 +18,19 @@
 ### Used libraries (Linked git submodules):
   - NMEA2000 library https://github.com/ttlappalainen/NMEA2000
   - NMEA2000_STM32 CAN library https://github.com/BitterAndReal/NMEA2000_STM32
+  - STM32_CAN library https://github.com/BitterAndReal/STM32_CAN
   - STM32 HAL for your MCU
-
-> Use the following command to update the submodules
-> git submodule foreach git pull
+  
+```
+git pull --recurse-submodules
+git submodule update --remote --recursive
+```
 
 ---
 ### STM23CubeIDE settings 
-Check the STM32CubeIDE setup guide for details
+Check the NMEA2000_STM32 STM32CubeIDE setup guide...
 https://github.com/BitterAndReal/NMEA2000_STM32
 
----
-Thanks for the great NMEA2000 CAN lib example Teensyx by ttlappalainen.
-https://github.com/ttlappalainen/NMEA2000_Teensyx
 
 ---
 ## License
