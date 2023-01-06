@@ -1,9 +1,9 @@
-../Libs/NMEA2000/src/NMEA2000StdTypes.h:110:11:tN2kDD206::tN2kDD206(uint16_t)	16	static
-../Libs/NMEA2000/src/NMEA2000StdTypes.h:134:20:uint16_t tN2kDD223::operator=(uint16_t)	16	static
-../Libs/NMEA2000/src/NMEA2000StdTypes.h:238:16:void tN2kDD477::SetEvents(unsigned char)	16	static
-../Libs/NMEA2000/src/NMEA2000StdTypes.h:249:16:void tN2kDD478::SetEvents(unsigned char)	16	static
-../Libs/NMEA2000/src/NMEA2000StdTypes.h:292:16:void tN2kDD483::SetEvents(unsigned char)	16	static
-../Libs/NMEA2000/src/N2kMessages.h:713:13:void N2kResetBinaryStatus(tN2kBinaryStatus&)	16	static
+../Libs/NMEA2000/src/NMEA2000StdTypes.h:194:11:tN2kDD206::tN2kDD206(uint16_t)	16	static
+../Libs/NMEA2000/src/NMEA2000StdTypes.h:244:20:uint16_t tN2kDD223::operator=(uint16_t)	16	static
+../Libs/NMEA2000/src/NMEA2000StdTypes.h:435:16:void tN2kDD477::SetEvents(unsigned char)	16	static
+../Libs/NMEA2000/src/NMEA2000StdTypes.h:455:16:void tN2kDD478::SetEvents(unsigned char)	16	static
+../Libs/NMEA2000/src/NMEA2000StdTypes.h:533:16:void tN2kDD483::SetEvents(unsigned char)	16	static
+../Libs/NMEA2000/src/N2kMessages.h:1639:13:void N2kResetBinaryStatus(tN2kBinaryStatus&)	16	static
 ../Libs/NMEA2000/src/N2kMessages.cpp:28:6:void SetN2kPGN126992(tN2kMsg&, unsigned char, uint16_t, double, tN2kTimeSource)	32	static
 ../Libs/NMEA2000/src/N2kMessages.cpp:39:6:bool ParseN2kPGN126992(const tN2kMsg&, unsigned char&, uint16_t&, double&, tN2kTimeSource&)	48	static
 ../Libs/NMEA2000/src/N2kMessages.cpp:55:6:void SetN2kPGN129802(tN2kMsg&, uint8_t, tN2kAISRepeat, uint32_t, tN2kAISTransceiverInformation, char*)	24	static

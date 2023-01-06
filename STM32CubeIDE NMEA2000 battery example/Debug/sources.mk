@@ -36,6 +36,7 @@ Core/Startup \
 Drivers/STM32F1xx_HAL_Driver/Src \
 Libs/NMEA2000/src \
 Libs/NMEA2000_STM32 \
+Libs/STM32_CAN \
 Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src \
 Middlewares/ST/STM32_USB_Device_Library/Core/Src \
 USB_DEVICE/App \

@@ -38,6 +38,7 @@
 "./Libs/NMEA2000/src/NMEA2000.o"
 "./Libs/NMEA2000/src/Seasmart.o"
 "./Libs/NMEA2000_STM32/NMEA2000_STM32.o"
+"./Libs/STM32_CAN/STM32_CAN.o"
 "./Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.o"
 "./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o"
 "./Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o"

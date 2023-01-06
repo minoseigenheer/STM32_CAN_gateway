@@ -13,6 +13,7 @@ RM := rm -rf
 -include USB_DEVICE/App/subdir.mk
 -include Middlewares/ST/STM32_USB_Device_Library/Core/Src/subdir.mk
 -include Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/subdir.mk
+-include Libs/STM32_CAN/subdir.mk
 -include Libs/NMEA2000_STM32/subdir.mk
 -include Libs/NMEA2000/src/subdir.mk
 -include Drivers/STM32F1xx_HAL_Driver/Src/subdir.mk
